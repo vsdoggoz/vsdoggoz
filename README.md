@@ -1,5 +1,5 @@
 # 💫 About Me:
-IT Student<br>Currently studying C# and .NET MAUI<br>Lua Developer at MTA:SA
+IT Student<br>Game Developer | Unreal Engine 5<br>Lua Developer at MTA:SA
 
 
 ## 🌐 Socials:
